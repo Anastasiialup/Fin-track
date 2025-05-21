@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.Toastify .Toastify__toast--success {
+  background: #79b981;
+}
+.Toastify .Toastify__toast--warning {
+  background: #DB9143;
+}
+.Toastify .Toastify__toast--error {
+  background: #E05050;
+}

@@ -1,0 +1,7 @@
+node_modules/*
+src/serviceWorker.ts
+build/*
+/.next/*
+**/node_modules
+coverage
+src/generated

@@ -22,7 +22,7 @@
     "sourceRoot": "/",
     "plugins": [{ "name": "next" }],
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["src/*"]
     },
     "types": ["node"]
   },
